@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@yield('title')</title>
     <style>
-        body { margin: 0; font-family: Arial, sans-serif; background-color: #f0f0f0; background-image: url('C:\Users\Carlos Daniel\Documents\GitHub\group_one-app\assets\Untitled.png')};
+        body { margin: 0; font-family: Arial, sans-serif; background-color: #f0f0f0; background-image: url('./Untitled.png')};
         header {  color: #fff; text-align: center; padding: 1rem; }
         nav { background-color: #444; overflow: hidden; text-align: center; }
         nav a { color: white; padding: 1rem; display: inline-block; text-decoration: none; }
